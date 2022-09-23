@@ -1,0 +1,8 @@
+[
+  { "'id": "0", "productName": "Menudo Blanco Chico", "price": 90 },
+  { "'id": "1", "productName": "Menudo Blanco Mediano", "price": 100 },
+  { "'id": "2", "productName": "Menudo Blanco Grande", "price": 110 },
+  { "'id": "3", "productName": "Menudo Rojo Chico", "price": 90 },
+  { "'id": "4", "productName": "Menudo Rojo Mediano", "price": 100 },
+  { "'id": "5", "productName": "Menudo Rojo Grande", "price": 110 }
+]
